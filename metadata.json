@@ -1,0 +1,8 @@
+{
+  "name": "Remix Traditional Khmer Wedding E-Invitation \u0026 Live Editor",
+  "description": "A luxury mobile-first Khmer wedding e-invitation with interactive double-door opening, falling petals, music, schedule, gift QR, RSVP, and live in-browser customization editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
